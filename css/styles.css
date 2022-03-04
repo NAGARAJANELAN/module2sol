@@ -18,13 +18,13 @@
         div {
             border: 5px solid black;
             float: left;
-            padding: 4px;
         }
 
         p {
             float: right;
             font-weight: bolder;
             padding: 5px;
+            margin: 1px;
         }
 
         article {
