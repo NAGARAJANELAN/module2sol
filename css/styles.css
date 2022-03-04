@@ -18,6 +18,7 @@
         div {
             border: 5px solid black;
             float: left;
+            padding: 4px;
         }
 
         p {
